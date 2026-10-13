@@ -1,5 +1,5 @@
 # Laboratorio-Temas-varios 💻
-**Fecha:** [13/10/2001] 🗓️
+**Fecha:** [13/10/2026] 🗓️
 
 ## Contenido del Repositorio 📚
 Este repositorio contiene la solución a un conjunto de ejercicios prácticos desarrollados en C# (.NET). El objetivo principal de la práctica es comprender y aplicar conceptos fundamentales de programación orientada a objetos y estructuras de control, tales como el uso de colecciones clave-valor (`Dictionary`), funciones recursivas, generación de números aleatorios y análisis de frecuencias con condicionales, así como la sobrecarga de métodos (*method overloading*).
@@ -25,6 +25,12 @@ Este repositorio contiene la solución a un conjunto de ejercicios prácticos de
 
 - **Programa 4 - Sobrecarga de Métodos (`SobreCargaMetodos`):**  
   Ejemplifica el principio de sobrecarga de métodos al definir la clase `SobreCarga` con dos variantes del método `Cuadrado`: uno acepta un parámetro entero (`int`) y el otro un número decimal (`double`). El programa demuestra cómo el compilador selecciona dinámicamente la firma del método correcta en tiempo de ejecución.
+
+## Autor
++ Nombre: Neo Aji
++ Institución: Universidad Tecnológica de Panamá (UTP)
++ Fecha de Realización: [13/10/2026]
+
 
 ## Estructura de Carpetas o Directorios
 
