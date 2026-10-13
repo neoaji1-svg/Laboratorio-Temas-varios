@@ -12,19 +12,30 @@ Este repositorio contiene la solución a un conjunto de ejercicios prácticos de
 ## Capturas de Pantalla 🖥️
 
 ### Interfaz Principal
-*(Incluir aquí las imágenes o capturas de la salida en consola para cada programa)*
 
-- **Programa 1 - Manejo de Diccionarios (`Diccionario2`):**  
+![image alt](https://github.com/neoaji1-svg/Laboratorio-Temas-varios/blob/f56d05cd5a6c7c4b276955726971a76386930a36/IMG/Diccionario.png)
+**Diccionario - Manejo de Diccionarios (`Diccionario2`):**  
   Demuestra el uso de la estructura `Dictionary<string, object>` para almacenar pares clave-valor (cabeceras de usuario como ID, Usuario y Rol). Recorre e imprime únicamente las llaves (*Keys*) del diccionario mediante un bucle `foreach`.
 
-- **Programa 2 - Cálculo Recursivo de Factorial (`Factorial`):**  
+___
+
+![image alt](https://github.com/neoaji1-svg/Laboratorio-Temas-varios/blob/f56d05cd5a6c7c4b276955726971a76386930a36/IMG/Factorial.png)
+**Factorial - Cálculo Recursivo de Factorial (`Factorial`):**  
   Implementa una función recursiva `Factorial(long numero)` que calcula el factorial de un número entero largo con su correspondiente caso base (`numero <= 1`) y paso recursivo. Un ciclo `for` evalúa e imprime en consola los factoriales del 0 al 10.
 
-- **Programa 3 - Análisis de Frecuencia de Dados (`Frecuencia`):**  
+***
+
+![image alt](https://github.com/neoaji1-svg/Laboratorio-Temas-varios/blob/f56d05cd5a6c7c4b276955726971a76386930a36/IMG/Frecuencia.png)
+**Frecuencia - Análisis de Frecuencia de Dados (`Frecuencia`):**  
   Simula el lanzamiento de un dado de 6 caras durante 6,000 repeticiones utilizando la clase `Random`. Mediante una estructura de control `switch`, evalúa cada tiro y contabiliza la frecuencia con la que aparece cada cara, mostrando los resultados tabulados en consola.
 
-- **Programa 4 - Sobrecarga de Métodos (`SobreCargaMetodos`):**  
+***
+
+![image alt](https://github.com/neoaji1-svg/Laboratorio-Temas-varios/blob/f56d05cd5a6c7c4b276955726971a76386930a36/IMG/Sobrecarga.png)
+**Sobre Carga - Sobrecarga de Métodos (`SobreCargaMetodos`):**  
   Ejemplifica el principio de sobrecarga de métodos al definir la clase `SobreCarga` con dos variantes del método `Cuadrado`: uno acepta un parámetro entero (`int`) y el otro un número decimal (`double`). El programa demuestra cómo el compilador selecciona dinámicamente la firma del método correcta en tiempo de ejecución.
+
+***
 
 ## Autor
 + Nombre: Neo Aji
