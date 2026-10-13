@@ -55,4 +55,9 @@ mi-repositorio/
 │   └── Program.cs          # Código fuente del simulador y contador de frecuencias
 ├── SobreCargaMetodos/
 │   └── Program.cs          # Código fuente del ejemplo de sobrecarga de métodos
+├── IMG/                    
+│   └── Diccionario.png    # Capturas de los resultados de los programas
+│   └── Factorial.png      
+│   └── Frecuencia.png
+│   └── Sobrecarga.png
 └── README.md               # Documentación general del repositorio
